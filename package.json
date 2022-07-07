@@ -51,6 +51,6 @@
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "gh-pages": "^3.2.3",
-    "postcss": "^7.0.36",
+    "postcss": "^7.0.36"
   }
 }
